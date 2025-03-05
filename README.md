@@ -1,7 +1,6 @@
 Zedboard(FPGA) with RaspberryPi5 Using Vitis-AI 
 -
 Equipment
--
 1. Zedboard
 2. Rasp5
 3. Raspicam
